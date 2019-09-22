@@ -5,7 +5,8 @@
 </head>
 
 <body>
-	Welcome ${name} <a href="/list-todos">Click here</a> to manage your todos!!
+      list of todos!!!<br>
+      ${todos}
 </body>
 
 </html>
